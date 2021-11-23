@@ -12,10 +12,12 @@ The goal of this project is to master all of the tools and best practices. We wi
 - VSCode
 
 
-👤## Author
+## Author
 
-- GitHub: [@githubhandle](https://github.com/Sahar-AbdelSamad)
-- Twitter: [@twitterhandle](https://twitter.com/home)
+# Sahar Abdel Samad
+
+- GitHub: [@saharabdelsamad](https://github.com/Sahar-AbdelSamad)
+- Twitter: [@abdelsamadsahar](https://twitter.com/home)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdel-samad-sahar-353977223/)
 
 ## Show your support
