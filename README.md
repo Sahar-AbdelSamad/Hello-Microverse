@@ -6,11 +6,19 @@
 
 The goal of this project is to master all of the tools and best practices. We will be using it in all Microverse projects and most likely in our future job as well.
 
+## Setup
+
+### Clone this repository
+
+```bash
+$ git clone git@github.com:Sahar-AbdelSamad/Hello-Microverse.git
+$ cd Hello-Microverse
+```
+### Run the live server or open index.html with your browser
 ## Built With
 
 - HTML & CSS
 - VSCode
-
 
 ## Author
 
